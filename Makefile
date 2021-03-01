@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: selgrabl <selgrabl@student.42.fr>          +#+  +:+       +#+         #
+#    By: braimbau <selgrabl@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/10/11 11:50:27 by selgrabl          #+#    #+#              #
-#    Updated: 2021/03/01 15:45:30 by selgrabl         ###   ########.fr        #
+#    Created: 2019/10/11 11:50:27 by braimbau          #+#    #+#              #
+#    Updated: 2021/03/01 15:49:31 by selgrabl         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
